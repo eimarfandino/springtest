@@ -1,9 +1,11 @@
-package com.rva.springtest;
+package com.emfh.springtest;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 import org.springframework.web.servlet.ModelAndView;
+
+import com.emfh.springtest.HelloController;
 
 public class HelloControllerTests {
 	@Test
